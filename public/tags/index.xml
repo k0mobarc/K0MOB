@@ -6,27 +6,12 @@
     <description>Recent content in Tags on K0MOB</description>
     <image>
       <title>K0MOB</title>
-      <url>//localhost:1313/images/papermod-cover.png</url>
-      <link>//localhost:1313/images/papermod-cover.png</link>
+      <url>//localhost:1313/images/tri.jpg</url>
+      <link>//localhost:1313/images/tri.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 K0MOB. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Echo</title>
-      <link>//localhost:1313/tags/echo/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/echo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shadow</title>
-      <link>//localhost:1313/tags/shadow/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/shadow/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

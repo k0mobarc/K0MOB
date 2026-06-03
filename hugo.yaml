@@ -35,27 +35,30 @@ languages:
 
         - name: About
           url: about/
-          weight: 1
+          weight: 1 
+        - name: Posts
+          url: posts/ 
+          weight: 2
         - name: Archive
           url: archives/
           weight: 5
 
   
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
-        imageTitle: ProfileMode image
-        # imageWidth: 120
-        # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-        buttons:
-          - name: Blog
-            url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+#    params:
+ #     profileMode:
+ #       enabled: false
+ #       title: PaperMod
+ #       imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+ #       imageTitle: ProfileMode image
+ #       # imageWidth: 120
+ #       # imageHeight: 120
+ #       subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+ #       buttons:
+ #         - name: Blog
+ #           url: posts
+ #        - name: Profile Mode
+ #           url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
   # fa:
   #   languagedirection: rtl
@@ -108,28 +111,35 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   ShowPageNums: true
-  ShowToc: true
+  ShowToc: false
   # comments: false
-  images: ["images/papermod-cover.png"]
+  images: ["/images/tri.jpg"] # to be used in structured data when .Params.images is not set for a page
 
   profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
+    enabled: true
+    title: "Welcome to the tri-county amateur radio club website"
+    imageUrl: "/images/tri.jpg"
+    imageTitle: "Tri County Amateur Radio Club"
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
+      - name: About
+        url: /about
+      - name: Posts
+        url: /posts
+    
+    assets:
+      favicon: "/images/favicon.png"  
+      favicon16x16: "/images/favicon16.png"
+      favicon32x32: "/images/favicon32.png"
+      
 
-  homeInfoParams:
-    Title: "Welcome to the K0MOB website \U0001F44B"
-    Content: >
-      👋 You will find information about the Tri County Ham radio club here
-
+ # homeInfoParams:
+  #  Title: "Welcome to the K0MOB website \U0001F44B"
+   # Content: >
+    #  Our next meeting is 16 june 2026 @ 1830 located at 1301 e Logan St, Moberly, MO 65270
+   # Image: "assets/images/tri.jpg
+  #"
 
   # socialIcons:
   #   - name: github

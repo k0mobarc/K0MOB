@@ -2,9 +2,4 @@
 - [](//localhost:1313/about/)
 
 ## Posts
-
-### Echo Legionnaire
-- [Echo Legionnaire Chapter 1](//localhost:1313/posts/echo/chapter-one/)
-
-### I Accidentally Awakened as a God and Still Failed Group Projects
-- [I Accidentally Awakened as a God and Still Failed Group Projects Chapter 1](//localhost:1313/posts/shadow/pass-one/)
+- [](//localhost:1313/posts/omar/)

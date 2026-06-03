@@ -6,41 +6,37 @@
     <description>Recent content on K0MOB</description>
     <image>
       <title>K0MOB</title>
-      <url>//localhost:1313/images/papermod-cover.png</url>
-      <link>//localhost:1313/images/papermod-cover.png</link>
+      <url>//localhost:1313/images/tri.jpg</url>
+      <link>//localhost:1313/images/tri.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 K0MOB. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Echo Legionnaire Chapter 1</title>
-      <link>//localhost:1313/posts/echo/chapter-one/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/echo/chapter-one/</guid>
-      <description>Awakening of the system</description>
-    </item>
-    <item>
-      <title>I Accidentally Awakened as a God and Still Failed Group Projects Chapter 1</title>
-      <link>//localhost:1313/posts/shadow/pass-one/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/shadow/pass-one/</guid>
-      <description>Meet Nemo</description>
-    </item>
     <item>
       <title></title>
       <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/about/</guid>
-      <description>&lt;p&gt;HELLO&amp;hellip;&amp;hellip; WELCOME TO OUR CLUB PAGE smiley&lt;/p&gt;
-&lt;p&gt;THE TRI-COUNTY AMATEUR RADIO CLUB OPERATES 1 Weekly NET
-THE KØMOB Moberly 2 METER NET AT 8 PM EVERY THURSDAY- JOIN US! any current F.C.C. license holders @ 147.090 + 0.6 offset PL Tone Squelch 127.3  Our weekly net control is Alan- KEØPEI or one of our Alternate Backup Operators.
-Our Club has 2 Repeaters in use, 2-Meter 147.090 + 0.6 offset PL Tone Squelch 127.3 and 70-cm 443.975 5.0 offset NO PL Tone
-The next TRI-COUNTY AMATEUR RADIO CLUB meeting is on June 16th 2026 @ 6:30PM all are welcome. Please join us&amp;hellip;. The counties we serve in our memebership are Randolph, Charition, Howard in Missouri
-Also With our (ARES) Amateur Radio Emergency Services Group for Randolph County Mo.
-@ this meeting address
-1301 E Logan St, Moberly, MO 65270&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;tri-county-amateur-radio-club&#34;&gt;Tri-County Amateur Radio Club&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;THE TRI-COUNTY AMATEUR RADIO CLUB OPERATES 1 Weekly NET&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;THE KØMOB Moberly 2 METER NET AT 8 PM EVERY THURSDAY- JOIN US! any current F.C.C. license holders @ 147.090 + 0.6 offset PL Tone Squelch 127.3  Our weekly net control is Alan- KEØPEI or one of our Alternate Backup Operators.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our Club has 2 Repeaters in use, 2-Meter 147.090 + 0.6 offset PL Tone Squelch 127.3 and 70-cm 443.975 5.0 offset NO PL Tone&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/omar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/omar/</guid>
+      <description>&lt;h1 id=&#34;omar-bradley&#34;&gt;Omar Bradley&lt;/h1&gt;
+&lt;p&gt;We arhonored to be the Randolph county birthplace (in Clark MO) of the late Omar Bradley 1893-1981 the last USA 5 star general.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Omar Bradley&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/omarbradley.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
