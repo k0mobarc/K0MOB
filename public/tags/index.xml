@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on K0MOB</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/K0MOB/tags/</link>
     <description>Recent content in Tags on K0MOB</description>
     <image>
       <title>K0MOB</title>
-      <url>//localhost:1313/images/tri.jpg</url>
-      <link>//localhost:1313/images/tri.jpg</link>
+      <url>http://localhost:1313/images/tri.jpg</url>
+      <link>http://localhost:1313/images/tri.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 K0MOB. All rights reserved.</copyright>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/K0MOB/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 # K0MOB
-- [](//localhost:1313/about/)
+- [](http://localhost:1313/K0MOB/about/)
 
 ## Posts
-- [](//localhost:1313/posts/omar/)
+- [](http://localhost:1313/K0MOB/posts/omar/)
