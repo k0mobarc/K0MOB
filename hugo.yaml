@@ -120,9 +120,9 @@ params:
     # imageHeight: 120
     buttons:
       - name: About
-        url: /about
+        url: about/
       - name: Posts
-        url: /posts
+        url: posts/
     
     assets:
       favicon: "/images/favicon.png"  
