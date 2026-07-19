@@ -5,10 +5,8 @@
 - THE KØMOB Moberly 2 METER NET AT 8 PM EVERY THURSDAY- JOIN US! any current F.C.C. license holders @ 147.090 + 0.6 offset PL Tone Squelch 127.3  Our weekly net control is Alan- KEØPEI or one of our Alternate Backup Operators.
 
 - Our Club has 2 Repeaters in use, 2-Meter 147.090 + 0.6 offset PL Tone Squelch 127.3 and 70-cm 443.975 5.0 offset NO PL Tone
-- The next TRI-COUNTY AMATEUR RADIO CLUB meeting is on June 16th 2026 @ 6:30PM all are welcome. Please join us.... The counties we serve in our memebership are Randolph, Charition, Howard in Missouri
-Also With our (ARES) Amateur Radio Emergency Services Group for Randolph County Mo.
-@ this meeting address
-1301 E Logan St, Moberly, MO 65270
+- As a reminder, our next club meeting will be held on Tuesday, July 21, 2026, 6:30 pm, at the Logan Street Church of Christ, 1301 E Logan Street, Moberly, Mo 65270. Hope to see everyone there!!
+
 
 ## contact
 
