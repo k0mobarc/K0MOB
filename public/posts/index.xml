@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on K0MOB</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on K0MOB</description>
     <image>
       <title>K0MOB</title>
-      <url>//localhost:1313/images/tri.jpg</url>
-      <link>//localhost:1313/images/tri.jpg</link>
+      <url>http://localhost:1313/images/tri.jpg</url>
+      <link>http://localhost:1313/images/tri.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 K0MOB. All rights reserved.</copyright>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:1313/posts/july2026/</link>
+      <link>http://localhost:1313/posts/july2026/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/july2026/</guid>
+      <guid>http://localhost:1313/posts/july2026/</guid>
       <description>&lt;p&gt;As a reminder, our next club meeting will be held on Tuesday, July 21, 2026, 6:30 pm, at the Logan Street Church of Christ, 1301 E Logan Street, Moberly, Mo 65270. Hope to see everyone there!!&lt;/p&gt;
 &lt;p&gt;Hello everyone!
 Wow, time is sure flying. We are already getting close to our July meeting!&lt;/p&gt;
@@ -25,12 +25,12 @@ Wow, time is sure flying. We are already getting close to our July meeting!&lt;/
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/posts/omar/</link>
+      <link>http://localhost:1313/posts/omar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/omar/</guid>
+      <guid>http://localhost:1313/posts/omar/</guid>
       <description>&lt;h1 id=&#34;omar-bradley&#34;&gt;Omar Bradley&lt;/h1&gt;
 &lt;p&gt;We arhonored to be the Randolph county birthplace (in Clark MO) of the late Omar Bradley 1893-1981 the last USA 5 star general.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Omar Bradley&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/omarbradley.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Omar Bradley&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/omarbradley.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
