@@ -90,7 +90,7 @@ params:
     
     assets:
       disableHLJS: true
-      favicon: "favicon.ico"  
+      favicon: "favicon.png"  
       favicon16x16: "favicon16.png"
       favicon32x32: "favicon32.png"
 
