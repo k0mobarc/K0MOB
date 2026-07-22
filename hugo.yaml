@@ -109,12 +109,12 @@ params:
   ShowPageNums: true
   ShowToc: false
   # comments: false
-  images: ["/images/tri.jpg"] # to be used in structured data when .Params.images is not set for a page
+  images: ["images/Tri.jpg"] # to be used in structured data when .Params.images is not set for a page
 
   profileMode:
     enabled: true
     title: "Welcome to the tri-county amateur radio club website"
-    imageUrl: "images/tri.jpg"
+    imageUrl: "images/Tri.jpg"
     imageTitle: "Tri County Amateur Radio Club"
     # imageWidth: 120
     # imageHeight: 120
@@ -124,10 +124,11 @@ params:
       - name: Posts
         url: posts/
     
-    assets:
-      favicon: "images/favicon.png"  
-      favicon16x16: "images/favicon16.png"
-      favicon32x32: "images/favicon32.png"
+   # assets:
+    #  favicon: "assets/favicon.ico"  
+    #  favicon16x16: "assets/favicon16.png"
+    #  favicon32x32: "assets/favicon32.png"
+
       
 
  # homeInfoParams:
@@ -152,7 +153,7 @@ params:
   #     url: "https://ko-fi.com/adityatelange"
 
   editPost:
-    URL: "https://github.com/imahuph1/K0MOB/edit/main/content" # edit URL
+    URL: "https://github.com/K0MOBARC/K0MOB/edit/main/content" # edit URL
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -168,11 +169,11 @@ params:
 
   assets:
     disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>"
+  #    favicon: "assets/favicon.ico"
+  #     favicon16x16: "assets/favicon16.png"
+  #     favicon32x32: "assets/favicon32.png"
+  #     apple_touch_icon: "assets/apple-touch-icon.png"
+  #     safari_pinned_tab: "assets/safari-pinned-tab.svg"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data

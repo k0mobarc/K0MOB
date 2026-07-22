@@ -1,5 +1,0 @@
-# K0MOB
-- [](//localhost:1313/about/)
-
-## Posts
-- [](//localhost:1313/posts/omar/)
